@@ -1,7 +1,7 @@
 shellgei_discord
 ====
 
-[シェル芸bot](https://github.com/theoremoon/ShellgeiBot)をDiscordでも．
+あのシェル芸botをDiscordでも．
 
 ## Description
 Twitterで有名な[theoremoon](https://github.com/theoremoon)さんの[シェル芸bot](https://github.com/theoremoon/ShellgeiBot)をDiscord上で実現するbotです．
